@@ -6,7 +6,7 @@ This project demonstrates how to host a secure, fast, and serverless static webs
 🔗 [Visit on CloudFront](https://d8qt4ze7u5f8h.cloudfront.net/)
 
 ## ✅ Tech Stack
-- Amazon S3 (Secure file hosting)
+- Amazon S3 (Secure file hosting) 
 - AWS CloudFront (CDN + HTTPS)
 - Origin Access Control (OAC)
 - CloudWatch + S3 Logs
